@@ -37,7 +37,8 @@ The F1-scores, which are the harmonic mean of precision and recall, further vali
 Consideration of Problem Importance:
 In many cases, there might be a higher emphasis on accurately predicting high-risk loans (class 1) to avoid potential financial risks associated with defaulting loans. However, the balanced performance of the model across both classes indicates its effectiveness in addressing the needs of both objectives.
 Recommendation: Based on the analysis, the logistic regression model performs exceptionally well for credit risk assessment in loan applications. Its high accuracy, precision, and recall scores indicate that it effectively distinguishes between healthy and high-risk loans. Therefore, I recommend utilizing this logistic regression model for credit risk assessment purposes, as it provides valuable insights to lending institutions for making informed decisions regarding loan approvals and risk management strategies.
-----------------------------------------------------------------------------------------------------------------##Data Aquisition
+----------------------------------------------------------------------------------------------------------------
+##Data Aquisition
 lending_data.csv located in resources folder
 
 ## Languages Used
