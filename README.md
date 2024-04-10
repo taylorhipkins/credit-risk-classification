@@ -43,4 +43,4 @@ Recommendation: Based on the analysis, the logistic regression model performs ex
 lending_data.csv located in resources folder
 
 ## Languages Used
-python
+pyhton on jupyter notebook
